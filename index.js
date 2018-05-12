@@ -15,5 +15,5 @@ else console.log("name is incorrect")
     console.log("The height is correct")
   }
 else{
-  console.log(" ")
+  console.log("Expected: 70, Received ")
 }
