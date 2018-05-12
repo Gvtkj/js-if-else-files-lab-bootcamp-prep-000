@@ -10,3 +10,10 @@ if (name === "Joe"){
 }
 else console.log("name is incorrect")
   
+  
+  if (height === 70){
+    console.log("The height is correct")
+  }
+else{
+  console.log("was ")
+}
